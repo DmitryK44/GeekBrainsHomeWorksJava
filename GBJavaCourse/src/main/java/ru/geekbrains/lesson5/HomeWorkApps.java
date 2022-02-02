@@ -19,7 +19,7 @@ public class HomeWorkApps {
                         "Annovna", "Teamlead",
                         "anna@neanna.com", 88005553, 2131, 1991),
                 new Employee("Hasky", "Baltika",
-                        "Ohotovna", "PM",
+                        "Ohotovna", "CEO",
                         "goaway@mail.com", 88005553, 3311 , 1945)
         };
 

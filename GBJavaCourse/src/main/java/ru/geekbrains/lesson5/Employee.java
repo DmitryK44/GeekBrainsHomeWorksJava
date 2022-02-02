@@ -12,7 +12,6 @@ public class Employee {
     private int salary;
     private int birthday;
 
-    // 2.	Конструктор класса должен заполнять эти поля при создании объекта;
     public Employee(String surname,
                     String name,
                     String secondName,
